@@ -1,0 +1,1 @@
+http://server:port/context-path/swagger-ui.html
